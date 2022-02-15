@@ -181,7 +181,7 @@
     
 }
 /* Media Queries */
-@media(max-width:600px){
+@media screen and (min-width: 240px)  and (max-width: 1000px){
     .upper-container{
         width: 80%;
        
